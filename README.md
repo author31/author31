@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @author31
-- 👀 I’m interested in ML/DL and other interesting stuffs
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in real world applicationg of ML/DL.
 - 📫 How to reach me wi072815.tw@gmail.com
 
 <!---
