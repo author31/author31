@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @author31
-- 👀 I’m interested in real world applicationg of ML/DL.
+- 👀 I’m interested in robotic research.
 - 📫 How to reach me wi072815.tw@gmail.com
 
 <!---
